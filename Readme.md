@@ -8,4 +8,4 @@ Install the project requirements
 
 Run the project
 
-`python git-project-commit.py <repos_name>`
+`python git-project-commit.py <repos_name> <Graduation Date dd/mm/yyyy>`
